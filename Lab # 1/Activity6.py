@@ -1,0 +1,6 @@
+a = str(input("What is your name? "))
+b = str(input("What is your job? "))
+c = input("What is your phone number? ")
+print("Name: ",a)
+print("Job Title: ",b)
+print("Phone Number: ",c)
